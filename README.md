@@ -87,8 +87,8 @@ Major Project/
 - Job Role Distribution
 - Jobs by Location
 - Jobs by Views & Applications
-- Median vs Average Salary Analysis\
-- 
+- Median vs Average Salary Analysis
+  
 ## 📈 Business Questions Answered
 
 - Which companies hire the most for data roles?
