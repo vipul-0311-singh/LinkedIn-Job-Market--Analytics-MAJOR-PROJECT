@@ -1,4 +1,4 @@
-# 📊 LinkedIn Job Market Intelligence Analytics
+# 📊 LinkedIn Job Market Analytics
 
 ## Buisiness Problem:
 The job market is constantly changing, and job seekers often struggle to identify the right career opportunities due to a lack of insights into hiring trends, required skills, salary expectations, and location-based demand.
