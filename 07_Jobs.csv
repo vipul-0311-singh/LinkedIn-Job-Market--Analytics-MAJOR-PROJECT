@@ -1,0 +1,60 @@
+Job Role,Skills,Location,Salary,Experience,Industry,Demand
+Data Analyst,"Python,SQL,Excel,Power BI",Delhi,6-8 LPA,Fresher,IT,High
+Data Analyst,"Python,SQL,Tableau,Excel",Bangalore,8-10 LPA,1-3 Years,IT,High
+Data Analyst,"Python,SQL,Power BI,Statistics",Mumbai,7-9 LPA,1-3 Years,Finance,High
+Data Analyst,"Python,SQL,Excel,Power BI",Pune,6-9 LPA,Fresher,IT,High
+Data Analyst,"Python,SQL,Tableau,Excel",Hyderabad,8-11 LPA,2-4 Years,IT,High
+
+Python Developer,"Python,Django,SQL,Git",Delhi,5-7 LPA,Fresher,Software,High
+Python Developer,"Python,Flask,SQL,Git",Bangalore,7-10 LPA,1-3 Years,Software,High
+Python Developer,"Python,Django,REST API,SQL",Mumbai,6-9 LPA,1-3 Years,Software,High
+Python Developer,"Python,FastAPI,SQL,Git",Pune,7-11 LPA,2-4 Years,Software,High
+Python Developer,"Python,Django,PostgreSQL,Git",Hyderabad,8-12 LPA,2-4 Years,Software,High
+
+Machine Learning Engineer,"Python,Pandas,NumPy,Scikit-learn",Bangalore,10-15 LPA,2-4 Years,AI,Very High
+Machine Learning Engineer,"Python,TensorFlow,PyTorch,NumPy",Hyderabad,12-18 LPA,3-5 Years,AI,Very High
+Machine Learning Engineer,"Python,ML,Deep Learning,Statistics",Delhi,9-14 LPA,2-4 Years,AI,Very High
+Machine Learning Engineer,"Python,Pandas,Scikit-learn,Matplotlib",Pune,10-13 LPA,1-3 Years,AI,Very High
+Machine Learning Engineer,"Python,TensorFlow,Keras,NumPy",Mumbai,11-16 LPA,3-5 Years,AI,Very High
+
+Backend Developer,"Python,Django,REST API,SQL",Delhi,6-9 LPA,Fresher,Software,High
+Backend Developer,"Node.js,Express,SQL,Git",Bangalore,8-12 LPA,1-3 Years,Software,High
+Backend Developer,"Python,Flask,REST API,PostgreSQL",Mumbai,7-10 LPA,1-3 Years,Software,High
+Backend Developer,"Java,Spring Boot,SQL,Git",Pune,8-13 LPA,2-4 Years,Software,High
+Backend Developer,"Python,Django,Microservices,Docker",Hyderabad,10-15 LPA,3-5 Years,Software,High
+
+Business Analyst,"Excel,SQL,Power BI,Communication",Delhi,5-8 LPA,Fresher,Business,Medium
+Business Analyst,"Excel,Tableau,SQL,Presentation",Bangalore,7-10 LPA,1-3 Years,Business,High
+Business Analyst,"SQL,Power BI,Excel,Analytics",Mumbai,6-9 LPA,1-3 Years,Business,High
+Business Analyst,"Excel,SQL,Data Analysis,Communication",Pune,5-7 LPA,Fresher,Business,Medium
+Business Analyst,"Tableau,SQL,Excel,Reporting",Hyderabad,7-11 LPA,2-4 Years,Business,High
+
+Data Scientist,"Python,Machine Learning,Statistics,SQL",Bangalore,12-18 LPA,3-5 Years,AI,Very High
+Data Scientist,"Python,Deep Learning,TensorFlow,SQL",Hyderabad,14-20 LPA,3-5 Years,AI,Very High
+Data Scientist,"Python,Pandas,Scikit-learn,ML",Mumbai,11-16 LPA,2-4 Years,AI,Very High
+Data Scientist,"Python,Statistics,ML,Data Mining",Delhi,10-15 LPA,2-4 Years,AI,Very High
+Data Scientist,"Python,AI,Deep Learning,Numpy",Pune,12-17 LPA,3-5 Years,AI,Very High
+
+Frontend Developer,"HTML,CSS,JavaScript,React",Bangalore,6-10 LPA,Fresher,Web,High
+Frontend Developer,"HTML,CSS,JavaScript,Angular",Delhi,5-9 LPA,Fresher,Web,High
+Frontend Developer,"React,JavaScript,Redux,CSS",Mumbai,7-12 LPA,1-3 Years,Web,High
+Frontend Developer,"Vue.js,HTML,CSS,JavaScript",Pune,6-10 LPA,1-3 Years,Web,High
+Frontend Developer,"React,TypeScript,JavaScript,CSS",Hyderabad,8-13 LPA,2-4 Years,Web,High
+
+Full Stack Developer,"Python,React,SQL,REST API",Bangalore,10-15 LPA,2-4 Years,Software,High
+Full Stack Developer,"JavaScript,Node.js,React,SQL",Delhi,8-12 LPA,1-3 Years,Software,High
+Full Stack Developer,"MERN Stack,Git,REST API,SQL",Mumbai,9-14 LPA,2-4 Years,Software,High
+Full Stack Developer,"Python,Django,React,PostgreSQL",Pune,10-15 LPA,2-4 Years,Software,High
+Full Stack Developer,"Node.js,Express,React,MongoDB",Hyderabad,11-16 LPA,3-5 Years,Software,High
+
+DevOps Engineer,"Docker,Kubernetes,AWS,CI/CD",Bangalore,12-18 LPA,3-5 Years,Cloud,Very High
+DevOps Engineer,"AWS,Terraform,Docker,Git",Hyderabad,13-20 LPA,3-5 Years,Cloud,Very High
+DevOps Engineer,"Linux,Docker,Jenkins,AWS",Mumbai,10-15 LPA,2-4 Years,Cloud,High
+DevOps Engineer,"Kubernetes,AWS,Python,Scripting",Delhi,11-16 LPA,2-4 Years,Cloud,High
+DevOps Engineer,"Azure,Docker,CI/CD,Git",Pune,12-17 LPA,3-5 Years,Cloud,Very High
+
+QA Engineer,"Manual Testing,Automation,Selenium,SQL",Delhi,4-7 LPA,Fresher,IT,Medium
+QA Engineer,"Selenium,Java,Testing,API Testing",Bangalore,6-10 LPA,1-3 Years,IT,High
+QA Engineer,"Automation Testing,Python,SQL,Selenium",Mumbai,5-8 LPA,1-3 Years,IT,High
+QA Engineer,"Manual Testing,Bug Reporting,SQL",Pune,4-6 LPA,Fresher,IT,Medium
+QA Engineer,"API Testing,Postman,Selenium,Java",Hyderabad,6-9 LPA,2-4 Years,IT,High
