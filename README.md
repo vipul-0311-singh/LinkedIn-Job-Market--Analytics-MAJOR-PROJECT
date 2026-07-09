@@ -29,8 +29,7 @@ This project analyzes LinkedIn job posting datasets to generate actionable insig
 
 ## 📂 Project Structure
 
-Major Project/
-│
+Major Project
 ├── 01_Data Cleaning by Pandas.py
 ├── 02_Exploratory Data Analysis.py
 ├── 03_EDA Insights Report.pdf
