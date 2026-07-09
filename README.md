@@ -30,9 +30,6 @@ This project analyzes LinkedIn job posting datasets to generate actionable insig
 - Build an interactive Power BI dashboard
 - Career Recommendation Engine
 
-## 📂 Project Structure
-
-```text
 Major Project/
 │
 ├── 📄 01_Data Cleaning by Pandas.py        # Data preprocessing and cleaning using Pandas
@@ -44,23 +41,8 @@ Major Project/
 ├── 📁 07_Jobs.csv                          # LinkedIn job dataset
 ├── 🤖 08_career_engine.py                  # Career Recommendation Engine
 ├── 🌐 09_app.py                            # Streamlit application
+├── 🎥 10_Video_Career Recommendation.mp4    # Video demonstration of the Career Recommendation System
 └── 📘 README.md                            # Project documentation
-```
-
-### 📁 File Description
-
-| File | Description |
-|------|-------------|
-| **01_Data Cleaning by Pandas.py** | Cleans and preprocesses the raw LinkedIn job dataset using Pandas. |
-| **02_Exploratory Data Analysis.py** | Performs exploratory data analysis to identify hiring trends, skill demand, salary distribution, and other insights. |
-| **03_EDA Insights Report.pdf** | Contains summarized findings and visual insights from the EDA process. |
-| **04_JOB MARKET DASHBOARD.pbix** | Interactive Power BI dashboard for visualizing job market analytics. |
-| **05_Dashboard Image_1.jpg** | Preview image of the first dashboard page. |
-| **06_Dashboard Image_2.jpg** | Preview image of the second dashboard page. |
-| **07_Jobs.csv** | Processed LinkedIn job postings dataset used for analysis and recommendations. |
-| **08_career_engine.py** | Implements the Career Recommendation Engine using skills, location, and match score. |
-| **09_app.py** | Streamlit application that integrates analytics and the recommendation engine into a web interface. |
-| **README.md** | Documentation containing project overview, setup instructions, features, and usage details. |
 
 ## 🛠️ Technologies Used
 
