@@ -119,6 +119,7 @@ Major Project/
 ## 👨‍💻 Author
 
 **Vipul Kumar**
+
 B.Tech Computer Science Engineering
 
 GitHub: https://github.com/vipul-0311-singh
