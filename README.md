@@ -2,12 +2,15 @@
 
 ## Buisiness Problem:
 The job market is constantly changing, and job seekers often struggle to identify the right career opportunities due to a lack of insights into hiring trends, required skills, salary expectations, and location-based demand.
-Companies and professionals need a data-driven approach to understand:
-1.Which job roles have the highest demand?
-2.Which skills are most valuable in the market?
-3.Which companies are actively hiring?
-4.How salaries vary by role, experience, and location?
-5.Which opportunities best match an individual's skills and preferences?
+
+Companies and professionals need a data-driven approach to answer the following questions:
+
+1. Which job roles have the highest demand?
+2. Which skills are most valuable in the current job market?
+3. Which companies are actively hiring?
+4. How do salaries vary by job role, experience level, and location?
+5. Which opportunities best match an individual's skills and preferences?
+
 
 This project aims to analyze LinkedIn job data and provide actionable career insights through data analytics and a Career Engine that recommends suitable job opportunities based on location, skills, match score, and missing skills.
 
@@ -29,17 +32,21 @@ This project analyzes LinkedIn job posting datasets to generate actionable insig
 
 ## 📂 Project Structure
 
-Major Project
-├── 01_Data Cleaning by Pandas.py
-├── 02_Exploratory Data Analysis.py
-├── 03_EDA Insights Report.pdf
-├── 04_JOB MARKET DASHBOARD.pbix
-├── 05_Dashboard Image_1.jpg
-├── 06_Dashboard Image_2.jpg
-├── 07_Jobs.csv
-├── 08_career_engine.py
-├── 09_app.py
-└── README.md
+## 📂 Project Structure
+
+Major Project/
+│
+├── 📄 01_Data Cleaning by Pandas.py        # Data preprocessing and cleaning using Pandas
+├── 📄 02_Exploratory Data Analysis.py      # Exploratory Data Analysis (EDA)
+├── 📄 03_EDA Insights Report.pdf           # Summary report of key EDA findings
+├── 📊 04_JOB MARKET DASHBOARD.pbix         # Power BI dashboard file
+├── 🖼️ 05_Dashboard Image_1.jpg             # Dashboard preview (Page 1)
+├── 🖼️ 06_Dashboard Image_2.jpg             # Dashboard preview (Page 2)
+├── 📁 07_Jobs.csv                          # LinkedIn job dataset
+├── 🤖 08_career_engine.py                  # Career Recommendation Engine
+├── 🌐 09_app.py                            # Streamlit application
+└── 📘 README.md                            # Project documentation
+
 
 ## 🛠️ Technologies Used
 
